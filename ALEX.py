@@ -31,3 +31,4 @@ if bit == '64bit':
     Sub()
 elif bit == '32bit':
     print("\x1b[1;91mOpps Sorry Brother Your Mobile Not Support This Tools")
+    
